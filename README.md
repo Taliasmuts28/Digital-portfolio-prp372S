@@ -26,7 +26,7 @@ Each section below includes **evidence** of the activity completed and a **refle
 
 | Section                  | Link                                      |
 |--------------------------|-------------------------------------------|
-| 📘 Career Counselling    | [Career Counselling](./career-counselling/) |
+| 📘 Career Counselling    | [Career Counselling](./Career-counselling/) |
 | 🧠 Skills & Interests     | [Skills & Interests](./skills-interests/)   |
 | 🌟 Personality Assessment | [Personality Assessment](./personality-assessment/) |
 | 📄 Create a CV           | [CV](./cv/)                               |
