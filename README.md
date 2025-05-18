@@ -1,8 +1,8 @@
 # Digital-portfolio-prp372S
 Work Readiness Training Portfolio - June 2025
-# 🎓 Work Readiness Digital Portfolio – PRP370S
+# 🎓 Work Readiness Digital Portfolio – PRP372S
 
-Welcome to my digital portfolio for **Project Presentation 3 (PRP370S)**. This portfolio contains the evidence and reflections from the Work Readiness Training activities we completed as part of our Diploma in ICT (Applications Development) at CPUT.
+Welcome to my digital portfolio for **Project Presentation 3 (PRP372S)**. This portfolio contains the evidence and reflections from the Work Readiness Training activities we completed as part of our Diploma in ICT (Applications Development) at CPUT.
 
 This portfolio showcases my progress and learning through various assessments such as career counselling, skill and personality evaluations, CV creation, and job application simulation — all structured using the **STAR technique** (Situation, Task, Action, Result).
 
