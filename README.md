@@ -30,7 +30,7 @@ Each section below includes **evidence** of the activity completed and a **refle
 | 🧠 Skills & Interests     | [Skills & Interests](./skills-interests/)   |
 | 🌟 Personality Assessment | [Personality Assessment](./personality-assessment/) |
 | 📄 Create a CV           | [CV](./cv/)                               |
-| 📤 CV Submission         | [CV Submission](./cv-submission/)         |
+| 📤 CV Submission         | [CV Submission](./CV-submission/)         |
 
 
 ---
