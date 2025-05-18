@@ -6,6 +6,27 @@
 
    ![ScreenShot Tool -20250518201033](https://github.com/user-attachments/assets/985408cc-9425-40d1-9380-11c6ec6c53d0)
 
+## 🔧 Skills & Interests
+
+## 🔧 Skills & Interests
+
+**Technical Skills:**  
+- Building responsive applications  
+- Basic programming concepts (HTML, CSS, JavaScript)  
+- Using Git and GitHub for version control  
+
+**Soft Skills:**  
+- Fast learner and motivated to grow  
+- Good communication  
+- Team player  
+- Time management  
+
+**Interests:**  
+- Learning new technologies  
+- Creating user-friendly applications  
+- Improving problem-solving skills  
+- Working on practical projects  
+ 
 
 ## ✍️ Reflection (STAR)
 **Situation:** I worked through notes and a quiz to learn about identifying and matching skills with career interests.  
