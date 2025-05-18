@@ -8,8 +8,6 @@
 
 ## 🔧 Skills & Interests
 
-## 🔧 Skills & Interests
-
 **Technical Skills:**  
 - Building responsive applications  
 - Basic programming concepts (HTML, CSS, JavaScript)  
