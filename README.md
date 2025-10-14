@@ -27,10 +27,10 @@ Each section below includes **evidence** of the activity completed and a **refle
 | Section                  | Link                                      |
 |--------------------------|-------------------------------------------|
 | 📘 Business Communication    | [Business Communication](./Business-Communication/) |
-| 🧠 Interview Skills     | [Interview Skills](./interview-skills/)   |
-| 🌟 Mock Interview | [Mock Interview](./Mock-interview/) |
-| 📄 Professional Networking     | [Professional Networking](./Professional-networking/)                               |
-| 📤 Workplace Etiquette         | [Workplace Etiquette](./Workplace-etiquette/)         |
+| 🧠 Interview Skills     | [Interview Skills](./Interview-Skills/)   |
+| 🌟 Mock Interview | [Mock Interview](./Mock-Interview/) |
+| 📄 Professional Networking     | [Professional Networking](./Professional-Networking/)                               |
+| 📤 Workplace Etiquette         | [Workplace Etiquette](./Workplace-Etiquette/)         |
 
 
 ---
